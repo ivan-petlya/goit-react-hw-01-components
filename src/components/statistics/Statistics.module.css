@@ -1,0 +1,24 @@
+.statistics {
+  text-align: center;
+  text-transform: uppercase;
+}
+.statistics__title {
+  margin-bottom: 10px;
+}
+.statlist {
+  display: flex;
+  justify-content: center;
+}
+.statlist__item {
+  padding: 5px;
+  width: 60px;
+  color: azure;
+  display: flex;
+  flex-direction: column;
+}
+.statlist__label {
+  font-style: italic;
+}
+.statlist__percentage {
+  font-size: x-large;
+}

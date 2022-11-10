@@ -1,0 +1,20 @@
+.table {
+  font-size: 14px;
+  border-spacing: 2px;
+  width: 640px;
+  text-align: center;
+  margin: 10px auto;
+}
+.table__tr {
+  text-transform: uppercase;
+  background-color: #00ffff;
+  color: blanchedalmond;
+  height: 40px;
+}
+.bodyTable__tr > td {
+  padding: 10px 12%;
+  text-align: left;
+}
+.bodyTable__type {
+  text-transform: capitalize;
+}
